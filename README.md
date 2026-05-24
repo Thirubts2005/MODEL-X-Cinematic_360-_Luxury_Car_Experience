@@ -20,6 +20,7 @@ This project delivers a premium automotive web experience with:
 - Dynamic headlight effects
 - Smooth GSAP transitions
 
+
 ### 🔄 360° Car Viewer
 - Interactive frame-by-frame car rotation
 - Scroll-controlled animation
@@ -63,19 +64,3 @@ This project delivers a premium automotive web experience with:
 - Premium visual hierarchy
 - Interactive HUD animations
 - Futuristic interface elements
-
----
-
-## 📂 Project Structure
-
-```bash
-project/
-│
-├── index.html
-├── assets/
-│   ├── images/
-│   ├── frames/
-│   └── videos/
-├── css/
-├── js/
-└── README.md
